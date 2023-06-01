@@ -1,5 +1,6 @@
 # Activity 2 - The Cheshire Cat
 
+
 ## Const Assertions
 
 The Cheshire Cat is famous for disappearing but leaving only a wide grin visible in the air.
